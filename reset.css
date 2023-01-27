@@ -20,7 +20,15 @@ input, button, textarea, select, optgroup {
     font-size: inherit;
 }
 
-a,button,details,input[type=button],input[type=checkbox],input[type=file],input[type=image],input[type=radio],input[type=range],input[type=reset],input[type=submit],select{
+a, button, details, select,
+input[type=button],
+input[type=checkbox],
+input[type=file],
+input[type=image],
+input[type=radio],
+input[type=range],
+input[type=reset],
+input[type=submit] {
   cursor:pointer;
 }
 
@@ -55,5 +63,3 @@ html {
     scroll-behavior: auto !important;
   }
 }
-
-

@@ -29,7 +29,11 @@ input[type=radio],
 input[type=range],
 input[type=reset],
 input[type=submit] {
-  cursor:pointer;
+  cursor: pointer;
+}
+
+button[disabled], input[disabled] {
+    cursor: default;
 }
 
 a, a:visited {

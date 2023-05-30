@@ -20,6 +20,10 @@ img, video, picture, canvas, svg {
   display: block;
 }
 
+iframe {
+  border: none;
+}
+
 input, button, textarea, select, optgroup {
     font-family: inherit;
     font-size: inherit;

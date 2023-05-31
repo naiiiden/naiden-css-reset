@@ -14,10 +14,10 @@ CSS
 
 SCSS
 ```sh
-@import 'naiden-css-reset/reset.scss'
+@import 'naiden-css-reset/_reset.scss'
 ```
 
 SASS
 ```sh
-@import 'naiden-css-reset/reset.sass'
+@import 'naiden-css-reset/_reset.sass'
 ```

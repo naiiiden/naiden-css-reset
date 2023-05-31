@@ -7,8 +7,8 @@
   "repository": "https://github.com/naiiiden/naiden-css-reset",
   "files": [
     "reset.css",
-    "reset.scss",
-    "reset.sass"
+    "_reset.scss",
+    "_reset.sass"
   ],
   "author": "Naiden Radnev",
   "license": "ISC"

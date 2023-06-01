@@ -10,6 +10,11 @@ YARN
 yarn add naiden-css-reset
 ```
 ## Usage
+UNPKG
+```sh
+<link rel="stylesheet" href="https://unpkg.com/naiden-css-reset@1.0.1/reset.css">
+```
+
 HTML
 ```sh
 <link rel="stylesheet" href="node_modules/naiden-css-reset/reset.css"/>

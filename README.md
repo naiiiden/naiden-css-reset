@@ -1,11 +1,14 @@
 # naiden-css-reset
 
 ## Installation
-
+NPM
 ```sh
 npm install naiden-css-reset
 ```
-
+YARN
+```sh
+yarn add naiden-css-reset
+```
 ## Usage
 HTML
 ```sh

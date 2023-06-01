@@ -14,7 +14,7 @@ yarn add naiden-css-reset
 ## Usage
 UNPKG
 ```sh
-<link rel="stylesheet" href="https://unpkg.com/naiden-css-reset@1.0.1/reset.css">
+<link rel="stylesheet" href="https://unpkg.com/naiden-css-reset@1.0.2/reset.css">
 ```
 
 HTML

@@ -1,6 +1,6 @@
 {
   "name": "naiden-css-reset",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A css reset",
   "style": "reset.css",
   "main": "reset.css",

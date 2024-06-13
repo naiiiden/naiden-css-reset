@@ -1,6 +1,6 @@
 # naiden-css-reset
 
-A ightweight CSS reset package designed to normalize and standardize the default styles across different web browsers. It provides a clean starting point for web projects by resetting CSS properties to a consistent baseline, ensuring a more predictable and consistent rendering of HTML elements.
+A lightweight CSS reset package designed to normalize and standardize the default styles across different web browsers. It provides a clean starting point for web projects by resetting CSS properties to a consistent baseline, ensuring a more predictable and consistent rendering of HTML elements.
 
 ## Installation
 NPM
